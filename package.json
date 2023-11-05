@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "backend development with chai aur code run by Hitesh",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
